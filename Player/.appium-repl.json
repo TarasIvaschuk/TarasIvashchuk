@@ -1,0 +1,14 @@
+{
+  "TestApp1" :
+    {
+      "deviceName": "redmi",
+      "appPackage": "com.smarttech.teacher",
+      "appActivity": "com.smarttech.teacher.MainActivity",
+      "platformVersion": "6.0.1",
+      "newCommandTimeout": 100000,
+      "autoLaunch" : "true",
+      "platformName":"android",
+      "device": "redmi"
+    }
+}
+
